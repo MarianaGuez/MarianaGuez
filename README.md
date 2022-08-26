@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome,+I'm+learning+and+working;learning+working+learning+working;but+take+a+chair)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%AA77C3&size=40&width=600&height=30&lines=Welcome,+I'm+in+process+of+something.../play crickets;still+discovering+what+but+I'm+excited+for+the+journey)](https://git.io/typing-svg)
+
+
+
 <!--
 **MarianaGuez/MarianaGuez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
