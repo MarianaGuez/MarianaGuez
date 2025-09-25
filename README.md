@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Mariana+...;I+love+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Mariana+...;Rodríguez+Castañeda)](https://git.io/typing-svg)
 <!--
 **MarianaGuez/MarianaGuez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
